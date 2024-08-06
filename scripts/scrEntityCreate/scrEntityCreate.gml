@@ -1,0 +1,4 @@
+///@arg x
+function scrEntityCreate(){
+
+}
